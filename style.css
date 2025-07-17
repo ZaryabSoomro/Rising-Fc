@@ -485,46 +485,6 @@ section h2 {
   .apply-btn:hover {
     background: green;
   }
-/* Contact Form */
-.contact form {
-    max-width: 600px;
-    margin: auto;
-    background: #ffffff;
-    padding: 2.5rem;
-    border: 1px solid #ddd;
-    border-radius: 16px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
-.contact form label {
-    display: block;
-    margin: 0.5rem 0 0.3rem;
-    font-weight: bold;
-}
-.contact form input, 
-.contact form textarea {
-    width: 100%;
-    padding: 0.8rem;
-    margin-bottom: 1.5rem;
-    border: 1px solid #ccc;
-    border-radius: 8px;
-    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
-}
-.contact form button {
-    display: block;
-    width: 100%;
-    padding: 1rem;
-    border: none;
-    background: linear-gradient(135deg, #085321, #0cc233);
-    color: #ffffff;
-    font-size: 1.2rem;
-    border-radius: 8px;
-    cursor: pointer;
-    transition: background 0.3s ease-in-out;
-}
-
-.contact form button:hover {
-    background: green;
-}
 /* Footer */
 .footer {
     background: linear-gradient(135deg, #085321, #0cc233);
